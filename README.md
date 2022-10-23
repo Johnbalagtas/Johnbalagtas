@@ -3,7 +3,7 @@
 #### Aspiring Web Developer
 ![Aspiring Web Developer](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
-I'm John Balagtas aspiring web developer
+I'm John Balagtas Aspiring web developer
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 

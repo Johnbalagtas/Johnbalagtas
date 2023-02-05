@@ -1,6 +1,6 @@
 
 ### Hi there 👋, John Balagtas
-#### Aspiring Web Developer
+#### 
 ![Aspiring Web Developer](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
 I'm John Balagtas Aspiring web developer

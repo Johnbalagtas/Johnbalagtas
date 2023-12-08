@@ -4,7 +4,7 @@
 
 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: JavaScript / HTML5 / CSS3 / Tailwind / Bootstrap / ReactJS / Figma / SASS / 
 
 - 🔭 I’m currently working on this page. 
 
